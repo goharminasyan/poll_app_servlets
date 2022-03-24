@@ -1,10 +1,6 @@
 # poll_web_app
 Implemented for the polling system:
 
-DB schema
-
-![image](https://user-images.githubusercontent.com/93138699/159952566-5d2575f9-bef3-40f7-8aa0-42e7da882655.png)
-
 The poll includes several questions. Each question can have multiple answers.
 Each answer option has a weight.
 There can be several results for each poll, depending on the number of points scored by the user during the survey.
@@ -27,3 +23,7 @@ The application has 6 pages:
 Implemented functionality allowing the user to take one survey no more than once a week. If less than a week has passed since the last pass, the result of the last pass is shown to the user.
 
 There are pages design with css.
+
+DB schema
+
+![image](https://user-images.githubusercontent.com/93138699/159952566-5d2575f9-bef3-40f7-8aa0-42e7da882655.png)
