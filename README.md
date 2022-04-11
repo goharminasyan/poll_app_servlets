@@ -5,6 +5,7 @@ The poll includes several questions. Each question can have multiple answers.
 Each answer option has a weight.
 There can be several results for each poll, depending on the number of points scored by the user during the survey.
 The result of the poll includes the corresponding range of scores and decoding. To determine the result, the system must sum the weights for each user response.
+![image](https://user-images.githubusercontent.com/93138699/162828157-5bdd634d-ee8d-4515-a1a3-45a4632bbf13.png)
 
 Created JDBC connection.
 
