@@ -1,4 +1,4 @@
-# poll_web_app
+# poll_web_app_with_servlets
 Implemented for the polling system:
 
 The poll includes several questions. Each question can have multiple answers.
